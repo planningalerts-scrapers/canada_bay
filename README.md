@@ -1,5 +1,4 @@
-City of Canada Bay Council scraper
-----------------------------------
+# City of Canada Bay Council scraper
 
 This site is a typical .NET site involves the followings.
 * Pagnation - Not sure what happen after page 11?
